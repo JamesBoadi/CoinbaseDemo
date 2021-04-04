@@ -5,9 +5,12 @@ A simple java application that subscribes to CoinBase Pro WebSocket Feed
 ## Installation
 
 Extract the zip to a directory of your choice
+
 Create a new workspace or open an existing one and go to file, and click Import -> General -> Existing Projects Into Workspace
+
 Select the CoinBase folder then the demo folder from the directory you extracted it to CoinBase -> demo
 and click finish
+
 Make sure that the existing packages do not conflict with the packages inside the project
 
 Go to Run Configurations by right clicking on the project or the run button,
